@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "./lib",
+    "rootDir": "./src",
+    "resolutionPlatforms": ["web", "ios"],
+    "composite": true
+  },
+  "include": ["./src"]
+}
+

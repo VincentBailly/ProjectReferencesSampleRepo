@@ -1,0 +1,69 @@
+{
+  "program": {
+    "fileInfos": {
+      "../node_modules/typescript/lib/lib.d.ts": {
+        "version": "49ff9798f592c8b7e628fd881401e68810c1b3589ecd7a41b32b3c287374cde0",
+        "signature": "49ff9798f592c8b7e628fd881401e68810c1b3589ecd7a41b32b3c287374cde0"
+      },
+      "../node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "fc43680ad3a1a4ec8c7b8d908af1ec9ddff87845346de5f02c735c9171fa98ea",
+        "signature": "fc43680ad3a1a4ec8c7b8d908af1ec9ddff87845346de5f02c735c9171fa98ea"
+      },
+      "../node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "d93de5e8a7275cb9d47481410e13b3b1debb997e216490954b5d106e37e086de",
+        "signature": "d93de5e8a7275cb9d47481410e13b3b1debb997e216490954b5d106e37e086de"
+      },
+      "../node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
+        "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
+      },
+      "../node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "./src/shared.web.ts": {
+        "version": "4efcd59af141205b1c782e1a7d74aea03a61441998ffe8558f6bf58234a7fb15",
+        "signature": "e26c3868082769a693fc6a67db811f9096076bb479b3c53d315103bc8fac19c4"
+      },
+      "./src/index.ts": {
+        "version": "a0274555087f32fb7b506bc087f4783284735a1da9224ee2a3b3e737102389f1",
+        "signature": "8087d34d28607f31bc5a0de6d3bb6d1a3c2be61a1618af5544fdfae047e00fbc"
+      },
+      "./src/shared.ios.ts": {
+        "version": "968ce3047ce864b0975c217197259cb00af08bbfee36d550c3ee4e17c07981ef",
+        "signature": "fc5ea34f4b2102e76e1169b319cc9a093a817d1972ec5c7a5308a9f4b87ddc5a"
+      }
+    },
+    "options": {
+      "outDir": "./lib",
+      "rootDir": "./src",
+      "resolutionPlatforms": [
+        "web",
+        "ios"
+      ],
+      "composite": true,
+      "configFilePath": "./tsconfig.json"
+    },
+    "referencedMap": {
+      "./src/index.ts": [
+        "./src/shared.web.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "./src/index.ts": [
+        "./src/shared.web.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../node_modules/typescript/lib/lib.d.ts",
+      "../node_modules/typescript/lib/lib.es5.d.ts",
+      "../node_modules/typescript/lib/lib.dom.d.ts",
+      "../node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "../node_modules/typescript/lib/lib.scripthost.d.ts",
+      "./src/shared.web.ts",
+      "./src/shared.ios.ts",
+      "./src/index.ts"
+    ]
+  },
+  "version": "3.7.3"
+}

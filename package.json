@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "typescript": "npm:@msfast/typescript-platform-resolution@3.7.3-global-platforms"
+  },
+  "resolutions": {
+    "typescript": "npm:@msfast/typescript-platform-resolution@3.7.3-global-platforms"
+  }
+}
