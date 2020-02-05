@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"typescript@npm:@msfast/typescript-platform-resolution@3.7.3-global-platforms":
-  version "3.7.3-global-platforms"
-  resolved "https://registry.yarnpkg.com/@msfast/typescript-platform-resolution/-/typescript-platform-resolution-3.7.3-global-platforms.tgz#1bc8d705204f609f2e829819ea04f0c558f29bcd"
-  integrity sha512-Dldsc9zfD6KOasTlE1MfdXE1MnujkbPLB8RqrVZJU40Lbz/SHG0SKriwvIhmP3km4KzEc0shLf43Oji2iXbylw==
+"typescript@npm:@msfast/typescript-platform-resolution@3.7.3-global-platforms-fix":
+  version "3.7.3-global-platforms-fix"
+  resolved "https://registry.yarnpkg.com/@msfast/typescript-platform-resolution/-/typescript-platform-resolution-3.7.3-global-platforms-fix.tgz#57bdf1581843123284cdf884cf5e251670fb81e4"
+  integrity sha512-3Sv3XXvcnF8DACK+GIvTvkHmEIGzr0/UGRrxHurpYvSZ7yxHGqNwrpREMGsm19x4/m4BLmi7ciJV4I8ErTmThw==
